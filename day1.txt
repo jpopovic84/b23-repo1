@@ -2,3 +2,9 @@ B23 is learning git
 
 We just made our first commit.
 Yay1
+
+Git keeps track of changes from the last point you made commit till the curent change
+It's saved under repo history
+
+
+
